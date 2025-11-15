@@ -11,6 +11,7 @@ Security: Offers end-to-end encrypted conversations for enhanced privacy.
 Entertainment: Play games with friends directly within the app.
 File sharing: Share large files up to 100MB. 
 
+Download our App on Media Fire. https://www.mediafire.com/file/bfm91hqqkp6a95r/gen_signed.apk/file?dkey=eme2wvtr74t&r=1113#
 <!--
 **GlooMessenger/GlooMessenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
